@@ -91,7 +91,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Jordan Osterberg](https://twitter.com/OsterbergJordan)|[GitHub](https://github.com/JordanOsterberg/wwdc/)|[YouTube](https://www.youtube.com/watch?v=G4_Do_m50NQ)|SpriteKit, UIKit, PlaygroundBooks, Accessibility|Submitted|
 |[Julian Schiavo](https://twitter.com/justjs_dev)|[GitHub](https://github.com/justJS/wwdc/tree/master/2019)|[YouTube](https://www.youtube.com/watch?v=dIYKp80OxE8)|AVFoundation, Core Image, UIKit|Submitted|
 |[Junaid Abdurahman](https://twitter.com/junaidxabd)||[YouTube](https://youtu.be/Cc5GZSAJ_hQ)|SceneKit, UIKit, CoreMotion, AVFoundation|Submitted|
-|Kamil Strzelecki|[GitHub](https://github.com/NSFatalError/Assistant)|[YouTube](https://youtu.be/D22HrNFokFw)|AppKit, CoreAnimation, CoreML, NaturalLanguage|Submitted|
+|Kamil Strzelecki|[GitHub](https://github.com/NSFatalError/Assistant)|[YouTube](https://youtu.be/D22HrNFokFw)|AppKit, CoreAnimation, CoreML, NaturalLanguage|Accepted|
 |[Kanishka](https://www.instagram.com/ralasi_code)||[YouTube](https://www.youtube.com/watch?v=54wndSzKW_E&t=38s)|UIKit, AVFoundation|Submitted|
 |[Kevin Schaefer](https://www.schaefkn.com)|[GitHub](https://github.com/schaefkn/WWDC19)||ARKit, SceneKit, SpriteKit, AVFoundation|Submitted|
 |[Kristof Kocsis](https://kristofk.com)|[GitHub](https://github.com/kristofk/WWDC19-Submission-Public)|[YouTube](https://youtu.be/95BlKKj23no)|UIKit, CoreGraphics, PlaygroundBooks|
